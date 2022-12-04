@@ -1,1 +1,1 @@
-print("This is my AZ-400 tutorial")
+print("This is my AZ-400 tutorial class")
